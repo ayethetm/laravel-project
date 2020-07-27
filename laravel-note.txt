@@ -1,0 +1,2 @@
+1.Open first cmd-> os -> php artisan serve
+2.Development Code-> open second cmd
